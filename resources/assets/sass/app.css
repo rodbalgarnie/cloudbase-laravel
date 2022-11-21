@@ -1,0 +1,3 @@
+/* importing _custome.scss from the same directory containing the following files 
+   resources/assets/sass/{app.scss, _custome.scss, _variables.scss} */
+@import url(../css/custom.css);
